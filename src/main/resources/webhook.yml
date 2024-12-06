@@ -1,0 +1,9 @@
+webhooks:
+  pond-event:
+    enabled: false
+    url: ""
+    title: "Un pond ha comenzado"
+    description:
+      - " :alarm_clock: Duración: <duration>"
+      - " :golf: Localización: /warp pesca"
+    color: "#FFFF00"

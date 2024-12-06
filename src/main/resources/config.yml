@@ -1,0 +1,24 @@
+pond-settings:
+  every: "2h"
+  duration: "5m"
+  max: 3
+  minimun-players: 10
+pond-message:
+  started:
+    - ''
+    - '&6&l[Pond] &fUn pond ha comenzado, participa en &a/warp pesca&f, tendrá una duración de &e%time%&f.'
+    - ''
+  no-minimum-players:
+    - ''
+    - '&6&l[Pond] &f¡Se necesitan al menos &c%players-needed% &fpara iniciar un pond!'
+    - ''
+  ended:
+    - ''
+    - '&6&l[Pond] &fEl pond ha terminado, gracias por participar.'
+    - ''
+  captured:
+    - ''
+    - '&6&l[Pond] &f¡%player% ha capturado %item%!'
+    - ''
+pond-rewards: {}
+pond-locations: []

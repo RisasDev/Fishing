@@ -1,0 +1,9 @@
+name: SukagePond
+version: '${project.version}'
+main: dev.risas.sukagepond.SukagePond
+api-version: '1.13'
+author: Risas
+commands:
+  skpond:
+    permission: "sukagepond.command.skpond"
+    description: "SKPond Command"
